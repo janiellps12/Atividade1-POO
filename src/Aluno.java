@@ -3,6 +3,12 @@ public class Aluno {
     private String email;
     private int matricula;
 
+    void Aluno(String nome, String email,int matricula){
+        this.nome = nome;
+        this.email = email;
+        this.matricula = matricula;
+    }
+
     //CRIANDO OS SETTERS
     public void setNome (String nome) {
         this.nome = nome;

@@ -3,7 +3,7 @@ public class Disciplina {
     private String titulo;
     private int capacidadeMaxima;
 }
-//verificar se a disciplina atingiu sua capacidade máxima
+
 
 
 

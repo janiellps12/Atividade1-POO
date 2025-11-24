@@ -12,6 +12,7 @@ Disciplina(String codigo, String titulo,int capacidadeMaxima){
     this.codigo = codigo;
     this.titulo = titulo;
     this.capacidadeMaxima = capacidadeMaxima;
+
 }
 
 //METODOS SETTERS
